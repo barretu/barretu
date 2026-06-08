@@ -1,13 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/3e/4c/9d/3e4c9d81ba6be013081a1506dd7fcdec.gif)
 <h1 align = 'center'> Welcome, i'm Thony Barreto 👋</h1>
 
-<div>
-<a href="https://github.com/barretu">
-<img align = 'left' width = 400 height="200em" alt="top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barretu&layout=compact&langs_count=16&theme=tokyonight&cache_seconds=1800"/>
-<img align = 'right' height = "200em" min-width="400px" max-width="400px" width="400px" src="https://github-readme-stats.vercel.app/api?username=barretu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=barretu&theme=tokyonight" alt="streak stats"/>
