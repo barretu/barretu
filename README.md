@@ -4,8 +4,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barretu&show_icons=true&theme=dark&bg_color=0D1B6E&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barretu&layout=compact&theme=dark&bg_color=0D1B6E&title_color=ffffff&text_color=ffffff&border_color=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=barretu&show_icons=true&theme=dark&bg_color=1A2744&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2A3A6A" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barretu&layout=compact&theme=dark&bg_color=1A2744&title_color=ffffff&text_color=ffffff&border_color=2A3A6A" />
 </div>
 
 ## 😎 About me
