@@ -27,7 +27,8 @@ Hi!! My name is Thony Barreto. I'm graduated in Digital Games Technology from UN
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
@@ -50,7 +51,7 @@ Hi!! My name is Thony Barreto. I'm graduated in Digital Games Technology from UN
 
 ## 📞 Contacts
 
-⬇️⬇️⬇️For any information, click on one of the cards below to access my main social networks. Thank you for your attention!🤜🤛
+For any information, click on one of the cards below to access my main social networks. Thank you for your attention!🤜🤛
 
 <div>
   <a href = "mailto:thonygabarreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
